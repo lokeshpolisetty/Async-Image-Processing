@@ -205,3 +205,6 @@ Expected output:
 ---
 
 Made with Java and JavaFX ☕
+
+
+<img width="6576" height="4221" alt="image" src="https://github.com/user-attachments/assets/3f762932-10e0-45de-b5cc-89fc052cd94f" />
